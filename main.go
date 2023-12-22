@@ -13,7 +13,7 @@ func main() {
 
 	fmt.Println(abc)
 
-	rest := teste.ConexaoRestNovo()
+	rest := teste.ConexaoRest()
 
 	fmt.Println(rest)
 
