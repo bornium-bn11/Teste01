@@ -2,19 +2,18 @@ package main
 
 import (
 	"fmt"
-
-	 "github.com/bornium-bn11/teste02"
+	teste "github.com/bornium-bn11/teste02/v01"
 )
 
 func main() {
 
 	fmt.Println("AAAA")
 
-	abc := teste02.PauloCesar()
+	abc := teste.PauloCesar()
 
 	fmt.Println(abc)
 
-	rest := teste02.ConexaoRest()
+	rest := teste.ConexaoRest()
 
 	fmt.Println(rest)
 
