@@ -10,12 +10,15 @@ func main() {
 
 	fmt.Println("AAAA")
 
-	abc := teste.PauloCesar_yyy()
+	abc := teste.PauloCesar_bbb()
 
 	fmt.Println(abc)
 
-	rest := teste.ConexaoRest_yyy()
-
+	rest := teste.ConexaoRest_bbb()
 	fmt.Println(rest)
 
+	
+	abc := teste.Teste_bbb()
+	fmt.Println(abc)
+	
 }
