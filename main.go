@@ -10,16 +10,14 @@ func main() {
 
 	fmt.Println("AAAA")
 
-	a01 := teste.ConexaoRest_ggg()
+	a01 := teste.Paulo_Cesar_A2222()
 
 	fmt.Println(a01)
 
-	b01 := teste.ConexaoRest_ggg()
+	b01 := teste.ConexaoRest_A2222()
 	fmt.Println(b01)
 
-	/*
-		co1 := teste.Teste_bbb()
-			fmt.Println(c01)
-	*/
-
+	co1 := teste.Teste_A2222()
+	fmt.Println(c01)
+	
 }
