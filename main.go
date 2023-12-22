@@ -10,15 +10,15 @@ func main() {
 
 	fmt.Println("AAAA")
 
-	abc := teste.PauloCesar_bbb()
+	a01 := teste.Paulo_Cesar_ccc()
 
-	fmt.Println(abc)
+	fmt.Println(a01)
 
-	rest := teste.ConexaoRest_bbb()
-	fmt.Println(rest)
+	b01 := teste.ConexaoRest_ccc()
+	fmt.Println(b01)
 
-	
-	abc := teste.Teste_bbb()
-	fmt.Println(abc)
-	
+	/*
+		co1 := teste.Teste_bbb()
+		fmt.Println(c01)
+	*/
 }
